@@ -31,8 +31,5 @@ public class Honda extends Car {
         System.out.println("Skrrrt");
     }
 
-    public void a() {
-        System.out.println("honda!");
-    }
-    
+
 }

@@ -1,4 +1,4 @@
-public class Bicycle implements Vehicle {
+public class Bicycle implements Drivable {
     private String make;
     private int bikeNo;
 

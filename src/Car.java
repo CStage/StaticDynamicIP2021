@@ -1,9 +1,9 @@
 /**
  * An abstract representation of a car with standard fields.
- * The class implements the Vehicle interface
+ * The class implements the Drivable interface
  */
 
-public abstract class Car implements Vehicle {
+public abstract class Car implements Drivable {
 
     protected int licensePlate;
     protected String make;
